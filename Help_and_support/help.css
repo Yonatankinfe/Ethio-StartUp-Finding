@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    margin: 5%;
+    align-items: stretch;
+    justify-content: center;
+}
+
+.sidebar{
+    flex-basis: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #B5A26D;
+    padding-bottom: 20%;
+}
+.tabButton {
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFD700;
+    background: none;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+.tabButton.active{
+    color: #005246;
+}
+.contentBox{
+    flex-basis: 70%;
+    margin: auto;
+}
+.contentBox h2{
+    margin-top: 0;
+}
+.content{
+    display: none;
+}
+.content.active{
+    display: block;
+}
+.faq{
+    max-width: 70%;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #000;
+    cursor: pointer;
+}
+
+.question{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.question h3{
+    font-size: 15px;
+}
+.faq-item{
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 1s ease;
+}
+.faq-item p{
+    padding-top: 10px;
+    line-height: 1.6;
+    font-size: 14px;
+}
+.faq.active .faq-item{
+    max-height: 300px;
+    animation: fade 1s ease-in-out;
+}
+.faq.active svg{
+    transform: rotate(180deg);
+}
+svg{
+    transition: 0.5s ease-in;
+}
+@keyframes fade {
+    from{
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+.back-to-home-container {
+    text-align: center;
+    margin-top: 20px; /* Adjust spacing as needed */
+}
+
+.back-to-home-btn {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #005246;
+    color: #FFD700;
+    text-decoration: none;
+    border: 2px solid #005246;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+    font-size: 16px;
+}
+
+.back-to-home-btn:hover {
+    background-color: #003533; /* Darker shade of your primary color */
+    border-color: #003533;
+    color: #FFD700;
+}
