@@ -19,4 +19,14 @@ StartupFundingPlatform-Ethiopia is a comprehensive crowdfunding platform designe
 - **Supportability**: Efficient resource utilization and extensive help and support features.
 - **Compatibility**: Cross-browser and device compatibility.
 - **Legal and Compliance**: Adherence to data protection and financial regulations, with clear terms of service.
+- A comprehensive crowdfunding platform empowering Ethiopian entrepreneurs and backers. Features include campaign creation, project discovery, networking, feedback, and robust admin tools. Ensures high performance, reliability, usability, security, supportability, and compliance with legal regulations.
+
+### How to Use
+1. **Setup**: Clone the repository and navigate to the project directory.
+2. **Backend**: Install PHP and set up a MySQL database.
+3. **Frontend**: Open the project in a web server that supports HTML, CSS, and JavaScript.
+4. **Payment Integration**: The default payment method is Chapa. Add your own payment API for backer transactions.
+
+Developed using HTML, CSS, JavaScript, and PHP.
+
 
