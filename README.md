@@ -23,7 +23,7 @@ StartupFundingPlatform-Ethiopia is a comprehensive crowdfunding platform designe
 
 ### How to Use
 1. **Setup**: Clone the repository and navigate to the project directory.
-2. **Backend**: Install PHP and set up a MySQL database.
+2. **Backend**: Install PHP and set up a MySQL database (sfp).
 3. **Frontend**: Open the project in a web server that supports HTML, CSS, and JavaScript.
 4. **Payment Integration**: The default payment method is Chapa. Add your own payment API for backer transactions.
 
