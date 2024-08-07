@@ -29,6 +29,7 @@ StartupFundingPlatform-Ethiopia is a comprehensive crowdfunding platform designe
 
 Developed using HTML, CSS, JavaScript, and PHP.
 ### Here Are Some Simple images Of the Site 
+![Screenshot_20240807-115927_WPS Office Lite.jpg](https://github.com/user-attachments/assets/9a24db9f-2fbf-46d7-89ca-dbbe3f31cc7d)
 ![Screenshot 2024-07-29 151023](https://github.com/user-attachments/assets/8ef07401-42a7-44e7-8162-aea7f1e8e1f5)
 ![Screenshot 2024-07-29 151102](https://github.com/user-attachments/assets/4c5f413c-6448-4fab-ab73-a5f34badff43)
 ![Screenshot 2024-07-29 151136](https://github.com/user-attachments/assets/c6307031-b1f6-4916-a8b4-eaa15c6877f9)
