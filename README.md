@@ -2,7 +2,7 @@
 A comprehensive crowdfunding platform empowering Ethiopian entrepreneurs and backers. Features include campaign creation, project discovery, networking, feedback, and robust admin tools. Ensures high performance, reliability, usability, security, supportability, and compliance with legal regulations.
 StartupFundingPlatform-Ethiopia is a comprehensive crowdfunding platform designed to support Ethiopian entrepreneurs and backers. The platform facilitates project campaign creation, project discovery, communication and networking, feedback and ratings, and administration through a robust and user-friendly interface. It ensures performance, reliability, usability, security, supportability, compatibility, and compliance with legal regulations.
 
-### Key Features
+### Key Features(Fuctional requirements)
 - **User Registration and Profiles**: Separate registration and profile creation for entrepreneurs and backers.
 - **Project Campaign Creation**: Entrepreneurs can create detailed campaign pages with multimedia content.
 - **Project Discovery and Search**: Backers can browse and search projects based on preferences and keywords.
