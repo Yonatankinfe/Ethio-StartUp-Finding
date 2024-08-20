@@ -27,7 +27,7 @@ if (isset($_POST['register'])) {
     $hashed_pword = password_hash($pword, PASSWORD_BCRYPT);
 
     // Handle the profile image upload
-    $target_dir = __DIR__ . "/uploads/";
+    $target_dir = DIR . "/uploads/";
     $target_file = $target_dir . basename($_FILES["profile"]["name"]);
     $uploadOk = 1;
     $imageFileType = strtolower(pathinfo($target_file, PATHINFO_EXTENSION));
