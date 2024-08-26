@@ -4,7 +4,7 @@
 
     $userId = $_SESSION['Backer_userId'];
 
-    // Retrieve projectId from session or URL parameter
+    // Retrieve projectId from session or URL parameter it is better if you make change based on you project id location
     if (isset($_GET['projectId'])) {
         $_SESSION['projectId'] = $_GET['projectId'];
         $projectId = $_SESSION['projectId'];
