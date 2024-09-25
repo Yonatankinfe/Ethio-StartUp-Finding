@@ -6,6 +6,14 @@ StartupFundingPlatform-Ethiopia is designed to support Ethiopian entrepreneurs a
 
 # Key Features (Functional Requirements) ⚙️
 
+- **User Registration and Profiles**: Separate registration and profile creation for entrepreneurs and backers. 👤👥
+- **Project Campaign Creation**: Entrepreneurs can create detailed campaign pages with multimedia content. 📽️📝
+- **Project Discovery and Search**: Backers can browse and search projects based on preferences and keywords. 🔍✨
+- **Communication and Networking**: Direct and indirect communication between entrepreneurs and advisors. 💬🤝
+- **Notifications and Updates**: Regular updates and notifications about project status and activities. 🔔📩
+- **Feedback and Ratings**: Backers can provide ratings and feedback for projects they fund. ⭐📝
+- **Admin Panel**: Comprehensive administration features for managing user accounts, resolving disputes, and ensuring platform policies. 🛠️🗂️
+
 User Registration and Profiles: Separate registration and profile creation for entrepreneurs and backers. 👤👥
 
 Project Campaign Creation: Entrepreneurs can create detailed campaign pages with multimedia content. 📽️📝
