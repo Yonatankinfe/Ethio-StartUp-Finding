@@ -1,6 +1,6 @@
 # Ethio-StartUp-Finding 🚀🇪🇹
 
-A comprehensive crowdfunding platform empowering Ethiopian entrepreneurs and backers. Features include campaign creation, project discovery, networking, feedback, and robust admin tools. Ensures high performance, reliability, usability, security, supportability, and compliance with legal regulations.
+A comprehensive crowdfunding platform empowering Ethiopian entrepreneurs and backers. 🌍💼 Features include campaign creation, project discovery, networking, feedback, and robust admin tools. Ensures high performance, reliability, usability, security, supportability, and compliance with legal regulations. ⚡🔒📈
 
 StartupFundingPlatform-Ethiopia is designed to support Ethiopian entrepreneurs and backers, offering a user-friendly platform for project campaign creation, project discovery, communication, feedback, and administration. It ensures excellent performance, reliability, usability, and compliance with legal requirements.
 
@@ -37,10 +37,10 @@ Compatibility: Cross-browser and device compatibility. 📱💻
 
 Legal and Compliance: Adherence to data protection and financial regulations, with clear terms of service. 📝✔️
 
-A comprehensive crowdfunding platform empowering Ethiopian entrepreneurs and backers. 🌍💼 Features include campaign creation, project discovery, networking, feedback, and robust admin tools. Ensures high performance, reliability, usability, security, supportability, and compliance with legal regulations. ⚡🔒📈
 
 
-How to Use 💻
+
+# How to Use 💻
 
 1. Setup: Clone the repository and navigate to the project directory. 🛠️
 
@@ -57,7 +57,7 @@ How to Use 💻
 
 Developed using HTML, CSS, JavaScript, and PHP. 🖥️💻
 
-Here Are Some Simple Images of the Site 📸
+# Here Are Some Simple Images of the Site 📸
 
 
 ![Screenshot_20240807-115927_WPS Office Lite.jpg](https://github.com/user-attachments/assets/9a24db9f-2fbf-46d7-89ca-dbbe3f31cc7d)
